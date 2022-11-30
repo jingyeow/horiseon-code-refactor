@@ -11,8 +11,6 @@ This project involved refactoring code to make a marketing site Horiseon  more a
 
 Additionally optimisations were made to streamline code site performance based on the following acceptance criteria.
 
-Lastly, some bugs were quashed!
-
 ### Acceptance Criteria
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
@@ -22,12 +20,16 @@ Lastly, some bugs were quashed!
 
 ## Deployment
 
-<!-- Include Github Link here -->
-<!-- Include screenshot of the fixed site -->
+Github Link: https://jingyeow.github.io/horiseon-code-refactor/
+
+![image](/horiseon-code-refactor/assets/images/horiseon-screenshot-final.png)
 
 ## Credits
 
 Thanks to some of the many resources used below.
+
+* https://www.w3schools.com/html/html5_semantic_elements.asp
+* https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
 
 
 

@@ -22,7 +22,7 @@ Additionally optimisations were made to streamline code site performance based o
 
 Github Link: https://jingyeow.github.io/horiseon-code-refactor/
 
-![image](/horiseon-code-refactor/assets/images/horiseon-screenshot-final.png)
+![image](./assets/images/horiseon-screenshot-final.png)
 
 ## Credits
 

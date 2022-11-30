@@ -23,7 +23,10 @@ Lastly, some bugs were quashed!
 ## Deployment
 
 <!-- Include Github Link here -->
+<<<<<<< HEAD
 <!-- Include link to deployed site -->
+=======
+>>>>>>> bf71f0ae3da59d4a7b22554a8f7f4a678c985321
 <!-- Include screenshot of the fixed site -->
 
 ## Credits
